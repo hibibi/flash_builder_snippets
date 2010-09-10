@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="com.elementriver.sourcemate.asContextType" deleted="false" description="default" enabled="true" name="default">default:{&#13;
+${indent}break;&#13;
+}</template></templates>

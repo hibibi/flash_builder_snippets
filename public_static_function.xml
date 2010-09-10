@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="com.elementriver.sourcemate.asContextType" deleted="false" description="public_static_function" enabled="true" name="public_static_function">public static function ${name}(${}):${return_type}{&#13;
+${indent}${cursor}&#13;
+}</template></templates>

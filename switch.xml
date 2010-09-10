@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="com.elementriver.sourcemate.asContextType" deleted="false" description="switch" enabled="true" name="switch">switch(${cursor}){&#13;
+${indent}&#13;
+}</template></templates>

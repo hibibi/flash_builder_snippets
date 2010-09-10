@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="com.elementriver.sourcemate.asContextType" deleted="false" description="if_else" enabled="true" name="if_else">if(${cursor}){&#13;
+${indent}&#13;
+}else{&#13;
+${indent}&#13;
+}</template></templates>

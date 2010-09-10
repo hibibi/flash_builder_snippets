@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="com.elementriver.sourcemate.asContextType" deleted="false" description="任意の位置でserialListを実行したいときに記述" enabled="true" name="serial_list">var list:SerialList = new SerialList();&#13;
+list.addCommand(&#13;
+${indent}null&#13;
+${indent},${cursor}&#13;
+)&#13;
+list.execute();</template></templates>
